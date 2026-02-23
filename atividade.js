@@ -4,7 +4,7 @@ let sistemaLogin = {
     senha: 123,
     tipo: "admin"
 };
-console.log(`O login do ${sistemaLogin.login} é ${istemaLogin.tipo} é ${istemaLogin.senha}, muito fraca por sinal.`)
+console.log(`O login do ${sistemaLogin.login} é ${sistemaLogin.tipo} é ${sistemaLogin.senha}, muito fraca por sinal.`)
 
 //Atividade 02
 let cadastro = {
@@ -78,3 +78,4 @@ let escola = {
     turno: "manhã.",
 };
 console.log(` A escola ${escola.nome}  funciona na cidade de  ${escola.cidade} no turno da ${escola.turno}.`)
+
